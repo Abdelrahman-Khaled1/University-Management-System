@@ -1,0 +1,17 @@
+# Build folders
+debug/
+release/
+build/
+
+# Qt generated files
+*.pro.user
+*.stash
+Makefile
+Makefile.*
+moc_*
+qrc_*
+ui_*
+
+# Executables
+*.exe
+*.out
