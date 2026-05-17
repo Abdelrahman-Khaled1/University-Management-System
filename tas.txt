@@ -1,0 +1,27 @@
+ID,Name,Course,Section,Email,Password
+T001,Anas Bilal,cs100,1,anas.b@college.edu,TA01pass
+T002,Badr Talal,cs100,2,badr.t@college.edu,TA02pass
+T003,Jana Dinar,cs100,3,jana.d@college.edu,TA03pass
+T004,Dalia Eissa,cs100,4,dalia.e@college.edu,TA04pass
+T005,Iyad Fawaz,cs100,5,iyad.f@college.edu,TA05pass
+T006,Ghassan Hamza,cs101,1,ghassan.h@college.edu,TA06pass
+T007,Hala Iyad,cs101,2,hala.i@college.edu,TA07pass
+T008,Issam Jaber,cs101,3,issam.j@college.edu,TA08pass
+T009,Joumana Kamal,cs101,4,joumana.k@college.edu,TA09pass
+T011,Laith Maher,cs102,1,laith.m@college.edu,TA11pass
+T012,Maisaa Nizar,cs102,2,maisa.n@college.edu,TA12pass
+T013,Nizar Omar,cs102,3,nizar.o@college.edu,TA13pass
+T014,Abeer Basem,cs102,4,abir.b@college.edu,TA14pass
+T015,Basem Qusai,cs102,5,basem.q@college.edu,TA15pass
+T016,Qais Radwan,cs103,1,qais.r@college.edu,TA16pass
+T017,Rima Saad,cs103,2,rima.s@college.edu,TA17pass
+T018,Salem Tamer,cs103,3,salem.t@college.edu,TA18pass
+T019,Taima Walid,cs103,4,taima.w@college.edu,TA19pass
+T020,Amro Wadie,cs103,5,amro.w@college.edu,TA20pass
+T021,Wafaa Yousef,cs104,1,wafaa.y@college.edu,TA21pass
+T022,Wael Ziad,cs104,2,wael.z@college.edu,TA22pass
+T023,Yumna Essam,cs104,3,yumna.i@college.edu,TA23pass
+T024,Ziad Basel,cs104,4,ziad.b@college.edu,TA24pass
+T025,Amal Adel,cs104,5,amal.a@college.edu,TA25pass
+T026,omer ,cs102,5,omer.@college.edu,pass_T026
+T027,gkjfa,cs102,5,gkjfa@college.edu,pass_T027

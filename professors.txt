@@ -1,0 +1,9 @@
+ID,Name,Course,Email,Password
+P101,Dr. Aisha Al-Jundi,cs100,aisha.g@college.edu,prof_A1
+P102,Dr. Khaled Al-Zahrani,cs101,khaled.z@college.edu,prof_K2
+P103,Dr. Layla Fouad,cs102,laila.f@college.edu,prof_L3
+P104,Dr. Hossam El-Din,cs103,hossam.d@college.edu,prof_H4
+P105,Dr. Nadia Mourad,cs104,nadia.m@college.edu,prof_N5
+P107,Mahdy,cs104,Mahdy@college.edu,pass_P107
+P108,Mage amr,cs104,Mage.amr@college.edu,pass_P108
+P109,Khalrd,cs103,Khalrd@college.edu,pass_P109
